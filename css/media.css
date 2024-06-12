@@ -1,0 +1,73 @@
+@media screen and (max-width: 992px) {
+  .about .about-img-border {
+    width: 100%;
+    margin: 0;
+    border: none;
+    margin-bottom: 20px;
+  }
+  .about-img-container {
+    top: 0;
+    left: 0;
+  }
+  .about .about-content {
+    width: 100%;
+  }
+  .about .about-content ul {
+    width: 100%;
+  }
+}
+
+/* services section */
+
+@media screen and (max-width: 992px) {
+  .services-items-container .item {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .services-items-container .item {
+    width: 100%;
+  }
+}
+
+/* portfolio section */
+
+@media screen and (max-width: 992) {
+  .our-portfolio ul {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .portfolio-item {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .portfolio-item {
+    width: 100%;
+  }
+}
+
+/* Client section */
+
+@media only screen and (max-width: 992px) {
+  .client-item .client-item-photo,
+  .client-item .client-item-content {
+    width: 100%;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .client-item .client-item-photo,
+  .client-item .client-item-content {
+    width: 100%;
+  }
+
+  .client-item{
+    width: 100%;
+  }
+}
